@@ -16,8 +16,7 @@ int main()
 
     cout << fixed << setprecision(2);
     cout << "A funcionaria " << nome << ", sexo " << sexo
-    << ", ganha " << salario << " e tem " << idade << " anos." << endl;
-
+        << ", ganha " << salario << " e tem " << idade << " anos." << endl;
 
     return 0;
 }
