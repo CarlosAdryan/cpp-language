@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746029822 source:c:\users\carlos\documents\estudos\c++\problems\rectangular-problem\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+
