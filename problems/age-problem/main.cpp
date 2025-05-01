@@ -24,7 +24,8 @@ int main()
     average = (age1 + age2) / 2.0;
 
     cout << fixed << setprecision(1);
-    cout << "The average age of "<< name1 << " and " << name2 << " is " << average << " years" << endl;
+    cout << "The average age of "<< name1 << " and " << name2
+         << " is " << average << " years" << endl;
 
     return 0;
 }
