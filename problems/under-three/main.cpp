@@ -21,6 +21,5 @@ int main()
         cout << "MINOR = " << c << endl;
     }
 
-
     return 0;
 }
